@@ -1,3 +1,7 @@
+# sandbox
+For coding practices
+I accepted the invatation
+
 # Video webhook inbox
 
 Python 3.12+ and SQLite, with FastAPI. Processing is simulated by a durable status
